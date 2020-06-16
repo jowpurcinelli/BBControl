@@ -10,7 +10,7 @@ Autoral open-source software | Created for own business control and development
  ## # First Ideas
 These are some ideas tha are on my head in this very begginning It's a bit of a mess yet, but will be very useful soon enough.
 
-- [ ] Clients control
+- [X] Clients control
     Create a organized and (secure) easy acces data `client `structure, that will be located in an API (maybe?)
     Clients data includes:  Name | Adress |Number | Bank account |  Account Balance (ToPay) | Other stuffs... 
 - [ ] Products control
